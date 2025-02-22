@@ -28,6 +28,11 @@ Welcome to my GitHub profile! I'm Sumit, a passionate developer and lifelong lea
 - 🔭 **Projects:** Check out my pinned repositories below to see some of my work.
 - 📜 **Blog:** I occasionally write about tech and my learning journey on [my blog](https://myblog.com).
 
+<div align="center">
+    
+  ![snake gif](https://github.com/sumitx99/sumitx99/blob/output/github-snake-dark.svg)
+</div>
+
 <!---
 sumitx99/sumitx99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
