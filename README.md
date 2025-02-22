@@ -15,9 +15,10 @@ Welcome to my GitHub profile! I'm Sumit, a passionate developer and lifelong lea
 
 ## Get in Touch
 - 📫 **How to reach me:** 
-  - **Email:** [sumit@example.com](mailto:sumit@example.com)
-  - **LinkedIn:** [Sumit on LinkedIn](https://www.linkedin.com/in/sumitx99)
-  - **Twitter:** [@sumitx99](https://twitter.com/sumitx99)
+  - **Email:** [Sumit Kumar Ranjan](sumitranjan2207@gmail.com)
+  - **LinkedIn:** [Sumit Kumar Ranjan](https://www.linkedin.com/in/sumit-kumar-ranjan-741bb825a/)
+  - **Twitter:** [Sumit Kumar Ranjan](https://twitter.com/sumitx99)
+  - **Github** [Sumit Kumar Ranjan](https://github.com/sumitx99)
 
 ## GitHub Stats
 ![Sumit's GitHub stats](https://github-readme-stats.vercel.app/api?username=sumitx99&show_icons=true&theme=radical)
