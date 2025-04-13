@@ -7,9 +7,9 @@
 Welcome to my GitHub profile! I'm Sumit, a passionate developer and lifelong learner. Here's a bit about me:
 
 ## About Me
-- 👀 **Interests:** I'm passionate about AI/ML, web development, app development, open-source contributions, and learning emerging technologies.
+- 👀 **Interests:** I'm passionate about AI/ML, web development, open-source contributions, and learning emerging technologies.
 - 🌱 **Currently Learning:** Exploring advanced Machine Learning, Deep Learning techniques, and mobile app development.
-- 💞️ **Collaboration:** Looking to collaborate on AI-driven projects, innovative mobile applications, and impactful open-source initiatives.
+- 💞️ **Collaboration:** Looking to collaborate on AI-driven projects, innovative web applications, and impactful open-source initiatives.
 - 😄 **Pronouns:** He/Him
 - ⚡ **Fun Fact:** I love solving puzzles and playing chess in my free time.
 
