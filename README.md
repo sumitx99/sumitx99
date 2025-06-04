@@ -24,7 +24,6 @@ Welcome to my GitHub profile! I'm Sumit, a passionate developer and lifelong lea
 ![Sumit's GitHub stats](https://github-readme-stats.vercel.app/api?username=sumitx99&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sumitx99&layout=compact&theme=radical)
 
-
 ## Skills & Technologies
 
 ### Languages
