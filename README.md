@@ -1,6 +1,5 @@
 # Hi there, I'm Sumit 👋
 
-
 ![Profile Views](https://komarev.com/ghpvc/?username=sumitx99&color=blue)
 
 
