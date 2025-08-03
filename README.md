@@ -2,39 +2,45 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=sumitx99&color=blue)
 
+
 ![GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXR4N2htbWo3bGttdDk2Y2gydG91ZWlnd3l6dmJwNTh4eG9zM2VseiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.gif)
 
 Welcome to my GitHub profile! I'm Sumit, a passionate developer and lifelong learner. Here's a bit about me:
----
 <div align="center">
 <pre><code style="color: #0B6623; font-family: 'Courier New', monospace; font-size: 17px; text-shadow: 0 0 10px #0B6623;">
-███████╗██╗   ██╗███╗   ███╗██╗████████╗
-██╔════╝██║   ██║████╗ ████║██║╚══██╔══╝
-███████╗██║   ██║██╔████╔██║██║   ██║   
-╚════██║██║   ██║██║╚██╔╝██║██║   ██║   
-███████║╚██████╔╝██║ ╚═╝ ██║██║   ██║   
-
+███████╗██╗   ██╗███╗   ███╗██╗████████╗    ██╗  ██╗██████╗     ██████╗  █████╗ ███╗   ██╗     ██╗ █████╗ ███╗   ██╗
+██╔════╝██║   ██║████╗ ████║██║╚══██╔══╝    ██║ ██╔╝██╔══██╗    ██╔══██╗██╔══██╗████╗  ██║     ██║██╔══██╗████╗  ██║
+███████╗██║   ██║██╔████╔██║██║   ██║       █████╔╝ ██████╔╝    ██████╔╝███████║██╔██╗ ██║     ██║███████║██╔██╗ ██║
+╚════██║██║   ██║██║╚██╔╝██║██║   ██║       ██╔═██╗ ██╔══██╗    ██╔══██╗██╔══██║██║╚██╗██║██   ██║██╔══██║██║╚██╗██║
+███████║╚██████╔╝██║ ╚═╝ ██║██║   ██║       ██║  ██╗██║  ██║    ██║  ██║██║  ██║██║ ╚████║╚█████╔╝██║  ██║██║ ╚████║
+╚══════╝ ╚═════╝ ╚═╝     ╚═╝╚═╝   ╚═╝       ╚═╝  ╚═╝╚═╝  ╚═╝    ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝ ╚════╝ ╚═╝  ╚═╝╚═╝  ╚═══╝
 </code></pre>
----
+</div>
 
-## About Me
+---
+## 📌 About Me
+
 - 👀 **Interests:** I'm passionate about AI/ML, web development, open-source contributions, and learning emerging technologies.
 - 🌱 **Currently Learning:** Exploring advanced Machine Learning, Deep Learning techniques, and mobile app development.
 - 💞️ **Collaboration:** Looking to collaborate on AI-driven projects, innovative web applications, and impactful open-source initiatives.
 - 😄 **Pronouns:** He/Him
 - ⚡ **Fun Fact:** I love solving puzzles and playing chess in my free time.
 
-## Get in Touch
-- 📫 **How to reach me:** 
-  - **Email:** [Sumit Kumar Ranjan](sumitranjan2207@gmail.com)
-  - **LinkedIn:** [Sumit Kumar Ranjan](https://www.linkedin.com/in/sumit-kumar-ranjan-741bb825a/)
-  - **Twitter:** [Sumit Kumar Ranjan](https://twitter.com/sumitx99)
-  - **Github** [Sumit Kumar Ranjan](https://github.com/sumitx99)
-    
+---
+
+## 📬 Get in Touch
+
+- 📧 **Email:** [sumitranjan2207@gmail.com](mailto:sumitranjan2207@gmail.com)
+- 💼 **LinkedIn:** [Sumit Kumar Ranjan](https://www.linkedin.com/in/sumit-kumar-ranjan-741bb825a/)
+- 🐦 **Twitter:** [@sumitx99](https://twitter.com/sumitx99)
+- 💻 **GitHub:** [sumitx99](https://github.com/sumitx99)
+
+---     
 ## GitHub Stats
 ![Sumit's GitHub stats](https://github-readme-stats.vercel.app/api?username=sumitx99&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sumitx99&layout=compact&theme=radical)
 
+---
 ## Skills & Technologies
 
 ### Languages
@@ -62,7 +68,7 @@ Welcome to my GitHub profile! I'm Sumit, a passionate developer and lifelong lea
 
 ## Highlights
 - 🔭 **Projects:** Check out my pinned repositories below to see some of my work.
-
+---
 <div align="center">
     
   ![snake gif](https://github.com/sumitx99/sumitx99/blob/output/github-snake-dark.svg)
