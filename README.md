@@ -91,7 +91,6 @@ Welcome to my GitHub profile! I'm Sumit, a passionate developer and lifelong lea
 <div align="center">
   <h2 style="font-family: 'Orbitron', monospace; color: #0B6623; font-size: 24px; text-shadow: 0 0 15px #0B6623;">
 
-
 <!---
 sumitx99/sumitx99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
