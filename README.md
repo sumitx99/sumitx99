@@ -28,7 +28,7 @@ Welcome to my GitHub profile! I'm Sumit, a passionate developer and lifelong lea
 - 🌱 **Currently Learning:** Exploring advanced Machine Learning, Deep Learning techniques, and mobile app development.
 - 💞️ **Collaboration:** Looking to collaborate on AI-driven projects, innovative web applications, and impactful open-source initiatives.
 - 😄 **Pronouns:** He/Him
-- ⚡ **Fun Fact:** I love solving puzzles and playing chess in my free time.
+- ⚡ **Fun Fact:** I love to play cricket and travelling in my free time.
 
 ---
 
