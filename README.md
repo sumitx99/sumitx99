@@ -6,7 +6,6 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXR4N2htbWo3bGttdDk2Y2gydG91ZWlnd3l6dmJwNTh4eG9zM2VseiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.gif" alt="GIF" width="500" />
 </div>
 
-
 Welcome to my GitHub profile! I'm Sumit, a passionate developer and lifelong learner. Here's a bit about me:
 <div align="center">
 <pre><code style="color: #0B6623; font-family: 'Courier New', monospace; font-size: 17px; text-shadow: 0 0 10px #0B6623;">
