@@ -82,7 +82,7 @@ Welcome to my GitHub profile! I'm Sumit, a passionate developer and lifelong lea
   <h2 style="font-family: 'Orbitron', monospace; color: #0B6623; font-size: 24px; text-shadow: 0 0 10px #0B6623;">
  
   </h2>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sumitx99&theme=redical&hide_border=true&area=true&color=0B6623&line=0B6623&point=FFFFFF&area_color=0B6623&title_color=0B6623&custom_title=Sumit's%20Contribution%20Graph" alt="Contribution Graph" style="border-radius: 10px; box-shadow: 0 0 20px #0B6623;">
+  <img src="https://ghchart.rshah.org/0B6623/sumitx99" alt="Contribution Graph" />
 </div>
 
 ---
